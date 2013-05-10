@@ -1,0 +1,40 @@
+{
+  "name": "my-app-initializer",
+  "version": "0.0.1",
+  "private": true,
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/NezbiT/my-node-initializer.git"
+  },
+  "author" : { 
+    "name" : "Mario Alvarez",
+    "email" : "xchemariox@gmail.com",
+    "twitter" : "@NezsbiT",
+    "github" : "NezbiT"
+  },
+  "engines": {
+    "node": "0.10.5"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node node_modules/coffee-script/bin/cake start"
+  },
+  "dependencies": {
+    "bouncy" : ">=3.1.1",
+    "coffee-script" : ">=1.6.2",
+    "colors" : ">=0.6.0",
+    "consolidate" : ">=0.9.1",
+    "express": ">=3.2.4",
+    "forever" : ">=0.10.7",
+    "jade": ">=0.30.0",
+    "moment": ">=",
+    "marked" : ">=0.2.8",
+    "nib" : ">=0.9.1",
+    "nodefly" : ">=0.1.40",
+    "stylus": ">=0.32.1",
+    "socket.io": ">=0.9.14"
+  }
+}
+
+  
+  
