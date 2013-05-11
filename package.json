@@ -1,10 +1,10 @@
 {
-  "name": "my-app-initializer",
+  "name": "my-initializer-app",
   "version": "0.0.1",
   "private": true,
   "repository" : {
     "type" : "git",
-    "url" : "git://github.com/NezbiT/my-node-initializer.git"
+    "url" : "git://github.com/NezbiT/my-initializer-app.git"
   },
   "author" : { 
     "name" : "Mario Alvarez",
