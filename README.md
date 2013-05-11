@@ -1,3 +1,3 @@
-##My App Initializer
+##My Initializer App
 
-##Initializer app with **Coffee Script**, **Jade**, **Stylus**, **Express**, and other **essencial packages.**
+###Initializer app with **Coffee Script**, **Jade**, **Stylus**, **Express**, and other **essencial packages.**
