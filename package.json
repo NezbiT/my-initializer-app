@@ -1,6 +1,6 @@
 {
   "name": "my-initializer-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "repository" : {
     "type" : "git",
@@ -27,7 +27,8 @@
     "express": ">=3.2.4",
     "forever" : ">=0.10.7",
     "jade": ">=0.30.0",
-    "moment": ">=",
+    "moment": "*",
+    "middleware" : "*",
     "marked" : ">=0.2.8",
     "nib" : ">=0.9.1",
     "nodefly" : ">=0.1.40",
